@@ -49,4 +49,3 @@ class RepairService extends Phonesold {
         return price * hours;
     }
 }
-// test
